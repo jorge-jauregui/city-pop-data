@@ -49,4 +49,4 @@ pd.set_option('display.width', None)
 pd.set_option('display.max_colwidth', None) 
 
 
-city_pop.loc[:3] #display # of rows
+city_pop.loc[:] #display # of rows
